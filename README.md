@@ -63,7 +63,7 @@ roll = ypr_eif[1];
  ```
 
 ## Tests and Demo Video
-[![INF with EIF](https://www.dropbox.com/s/ozrczusi1hmzuj3/Untitled2.png)](https://www.dropbox.com/s/rxmxjgcjtwu1rox/MOV_1099.mp4?dl=0)
+[![INF with EIF](https://user-images.githubusercontent.com/10338030/29743693-c57caff2-8a8e-11e7-8b1c-0b19fa42d64c.png)](https://www.dropbox.com/s/rxmxjgcjtwu1rox/MOV_1099.mp4?dl=0)
 
 ## Contributors
 
