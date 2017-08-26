@@ -1,0 +1,6 @@
+EIF_init_initialize.obj
+EIF_init_terminate.obj
+EIF_init.obj
+rt_nonfinite.obj
+rtGetNaN.obj
+rtGetInf.obj
